@@ -7,7 +7,9 @@ public class ControllerA {
     }
 
     public void addFunctionB() {
-
+        System.out.println("add logic zz");
+        System.out.println("add logic zz");
+        System.out.println("add logic zz");
     }
 
     public void addFunctionZ() {
