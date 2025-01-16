@@ -4,5 +4,7 @@ public class ControllerA {
 
     public void addFunctionA(){
 
+    }public void addFunctionB(){
+
     }
 }
